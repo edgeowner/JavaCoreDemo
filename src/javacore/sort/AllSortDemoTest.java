@@ -1,16 +1,14 @@
 package javacore.sort;
 
 
-import netscape.javascript.JSObject;
 
-import java.lang.reflect.Array;
 import java.text.MessageFormat;
 import java.util.Arrays;
 
 /**
  * @author zhangsunny
  */
-public class AllSortDemo {
+public class AllSortDemoTest {
 
 
     /**
